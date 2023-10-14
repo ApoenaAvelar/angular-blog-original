@@ -1,12 +1,30 @@
 
-
-.container__menu-bar > ul{
+.container__menu-bar > div> div{
+  background-color:#F9EEE2;
+}
+.container__menu-bar > div > div > ul{
   display: flex;
   flex-direction: row;
 }
 
-.container__menu-bar > ul > li{
+.container__lista > ul > li{
   margin-right: 20px;
   list-style: none;
 }
 
+.container__menu-bar > div{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__icone{
+   display: flex;
+  justify-content: right;
+}
+
+.container__icone > a > img{
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: right;
+}
