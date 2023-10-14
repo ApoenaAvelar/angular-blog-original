@@ -21,8 +21,14 @@
   margin-top: 20px;
 }
 
+.big-card__description > p {
+  text-align: justify ;
+
+}
+
 .big-card__description > p > a {
   color: rgb(1, 1, 1);
+
 }
 
 .big-card__photo > img{
