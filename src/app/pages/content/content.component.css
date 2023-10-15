@@ -1,3 +1,4 @@
+/*TODO Fazer toda a formatação da página dinamica content*/
 .container__content{
 
   width: 100%;
@@ -12,7 +13,7 @@
 }
 
 .content__cover > img{
-  border:5px solid rgb(144, 144, 144);
+
   border-radius: 5px;
   width: 500px;
   min-width: 500px;
@@ -25,5 +26,5 @@
 
 .content__description > p{
   margin-top: 20px;
-  color: rgb(198, 197, 197);
+  color: rgb(9, 9, 9);
 }

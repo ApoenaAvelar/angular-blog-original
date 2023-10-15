@@ -1,7 +1,5 @@
 
-.container__menu-bar > div> div{
-  background-color:#F9EEE2;
-}
+
 .container__menu-bar > div > div > ul{
   display: flex;
   flex-direction: row;
